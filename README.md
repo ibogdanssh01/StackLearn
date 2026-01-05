@@ -25,13 +25,11 @@
 
 5) Rulează migrările (și seed, dacă ai):
    php artisan migrate
-   # opțional
-   php artisan db:seed
 
-6) Instalează dependențele frontend:
+7) Instalează dependențele frontend:
    npm install
 
-7) Pornește în development (două terminale):
+8) Pornește în development (două terminale):
    Terminal 1:
    php artisan serve
 
